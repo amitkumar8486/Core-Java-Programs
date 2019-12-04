@@ -1,3 +1,2 @@
-# Playground
-Java Full Stack Program
--Core Java Assignment
+# Core Java Programs
+Assignments during Java Full Stack Program
